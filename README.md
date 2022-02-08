@@ -40,7 +40,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=ExpressJS&logoColor=white">
+   <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS%20-%23E34F26.svg?style=plastic&logo=express&logoColor=white">
   </a>   
 </p>
 
