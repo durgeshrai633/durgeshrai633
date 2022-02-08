@@ -47,7 +47,7 @@
    <img alt="Node Js" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?style=plastic&logo=node&logoColor=white">
   </a>  
 	<a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongo&logoColor=white">
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23E34F26.svg?style=plastic&logo=mongodb&logoColor=white">
   </a> 
 </p>
 
