@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Durgesh Kumar Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I am a Full stack web developer. I like to Code and experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
