@@ -8,23 +8,10 @@
 <br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-## 👀 My Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshrai633&theme=algolia" alt="Durgesh Kumar Rai" /></p>
 
 
 ## 🛠️ My Skills
@@ -102,43 +89,8 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/?logo=data:https://i.loli.net/2019/09/22/L1o7GsNVgw8lCmW.png;base64&style=plastic&logo=aAtcoder&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
-
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
-</p>
-
-<br/>
 
 ## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
