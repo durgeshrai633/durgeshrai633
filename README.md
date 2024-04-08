@@ -4,7 +4,7 @@
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a Software Developer. I like to Code and experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">Experienced Software Developer passionate about coding and innovation. Enthusiastic collaborator eager to embrace challenges and foster a positive tech community.</h4>
 <br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=durgeshrai633&label=Profile%20views&color=0e75b6&style=plastic" alt="Durgesh Kumar Rai" /> 
